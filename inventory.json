@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Ford Lincoln Sales Ltd",
-  "generated_at": "2026-09-26T23:09:15",
+  "generated_at": "2026-10-08T14:39:32",
   "vehicle_count": 192,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -35,12 +37,15 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Audi Q5 E Prestigein Kelowna near West Kelowna",
       "vin": "WA1F2AFY5L2084469",
       "stock": "NUMBER",
+      "trim": "E Prestige",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/e1c4bc8f8285.html",
       "source_url": "https://www.kelownaford.com/used/2020-Audi-Q5-id14431065.html",
       "dealer_url": "https://www.kelownaford.com/used/2020-Audi-Q5-id14431065.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +55,10 @@
       "odometer_km": 55407,
       "year": 2020,
       "make": "Audi",
-      "model": "Q5 E Prestigein Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Q5",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Audi Q5 ",
@@ -67,7 +74,9 @@
       "year": 2020,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Audi Q5 ",
@@ -83,12 +92,15 @@
       "year": 2020,
       "make": "Audi",
       "model": "Q5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ST, 4WD, PADDLE SHIFTERS, TWIN PANEL MOONROOF, HEATED/VENTILATED SEATSin Kelowna near West Kelowna",
       "vin": "1FM5K8GC8LGB87915",
       "stock": "NUMBER",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/b510e46b565c.html",
       "source_url": "https://www.kelownaford.com/used/2020-Ford-Explorer-id14247262.html",
       "dealer_url": "https://www.kelownaford.com/used/2020-Ford-Explorer-id14247262.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -98,8 +110,10 @@
       "odometer_km": 75018,
       "year": 2020,
       "make": "Ford",
-      "model": "Explorer ST, 4WD, PADDLE SHIFTERS, TWIN PANEL MOONROOF, HEATED/VENTILATED SEATSin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ",
@@ -115,12 +129,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 LARIAT, 3L DIESEL ENGINE, SPORT PKG, PANORAMIC MOONROOF, TRAILER TOW PKGin Kelowna near West Kelowna",
       "vin": "1FTFW1E10LFC74767",
       "stock": "NUMBER",
+      "trim": "LARIAT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/5e1ff0efcb83.html",
       "source_url": "https://www.kelownaford.com/used/2020-Ford-F_150-id13903085.html",
       "dealer_url": "https://www.kelownaford.com/used/2020-Ford-F_150-id13903085.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -130,8 +147,10 @@
       "odometer_km": 116325,
       "year": 2020,
       "make": "Ford",
-      "model": "F-150 LARIAT, 3L DIESEL ENGINE, SPORT PKG, PANORAMIC MOONROOF, TRAILER TOW PKGin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -147,7 +166,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ",
@@ -163,7 +184,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -179,12 +202,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Corsair RESERVE, AWD, HEATED SEATS/STEERING WHEEL, MOONROOF, 360 CAMERA, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "5LMCJ2DHXLUL27193",
       "stock": "NUMBER",
+      "trim": "RESERVE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/3147b055f899.html",
       "source_url": "https://www.kelownaford.com/used/2020-Lincoln-Corsair-id14353093.html",
       "dealer_url": "https://www.kelownaford.com/used/2020-Lincoln-Corsair-id14353093.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -194,8 +220,10 @@
       "odometer_km": 81428,
       "year": 2020,
       "make": "Lincoln",
-      "model": "Corsair RESERVE, AWD, HEATED SEATS/STEERING WHEEL, MOONROOF, 360 CAMERA, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Corsair",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Corsair ",
@@ -211,7 +239,9 @@
       "year": 2020,
       "make": "Lincoln",
       "model": "Corsair",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Corsair ",
@@ -227,12 +257,15 @@
       "year": 2020,
       "make": "Lincoln",
       "model": "Corsair",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape SEL, AWD, PANORAMIC MOONROOF, B&O SOUND SYSTEM, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "1FMCU9H69NUB05663",
       "stock": "NUMBER",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/063478515829.html",
       "source_url": "https://www.kelownaford.com/used/2022-Ford-Escape-id14224573.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Ford-Escape-id14224573.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -242,8 +275,10 @@
       "odometer_km": 46685,
       "year": 2022,
       "make": "Ford",
-      "model": "Escape SEL, AWD, PANORAMIC MOONROOF, B&O SOUND SYSTEM, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -259,12 +294,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer ST, 4WD, PADDLE SHIFTERS, TWIN PANEL MOONROOF, HEATED/VENTILATED SEATSin Kelowna near West Kelowna",
       "vin": "1FM5K8GC7NGB03800",
       "stock": "NUMBER",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/e1c3e43d9b3c.html",
       "source_url": "https://www.kelownaford.com/used/2022-Ford-Explorer-id14188262.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Ford-Explorer-id14188262.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,8 +312,10 @@
       "odometer_km": 91000,
       "year": 2022,
       "make": "Ford",
-      "model": "Explorer ST, 4WD, PADDLE SHIFTERS, TWIN PANEL MOONROOF, HEATED/VENTILATED SEATSin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer ",
@@ -291,12 +331,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 XLT, 2.7L, SPORT PKG, TRAILER TOW PKG, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "1FTEW1EP7NKD46087",
       "stock": "NUMBER",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/b37573fc608d.html",
       "source_url": "https://www.kelownaford.com/used/2022-Ford-F_150-id14138386.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Ford-F_150-id14138386.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -306,13 +349,16 @@
       "odometer_km": 89158,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 XLT, 2.7L, SPORT PKG, TRAILER TOW PKG, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 LARIAT, 2.7L, MOONROOF, FX4 PKG, TOW PKG, TAILGATE STEP, 360 CAMERA, SPORT PKGin Kelowna near West Kelowna",
       "vin": "1FTEW1EP4NFB68387",
       "stock": "NUMBER",
+      "trim": "LARIAT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/4a8ad97817c5.html",
       "source_url": "https://www.kelownaford.com/used/2022-Ford-F_150-id14363914.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Ford-F_150-id14363914.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -322,13 +368,16 @@
       "odometer_km": 101328,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 LARIAT, 2.7L, MOONROOF, FX4 PKG, TOW PKG, TAILGATE STEP, 360 CAMERA, SPORT PKGin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 F150 Xlt 302ain Kelowna near West Kelowna",
       "vin": "1FTEW1EP2NFC05467",
       "stock": "NUMBER",
+      "trim": "F150 Xlt 302a",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/8cee06f7c270.html",
       "source_url": "https://www.kelownaford.com/used/2022-Ford-F_150-id14403061.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Ford-F_150-id14403061.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -338,8 +387,10 @@
       "odometer_km": 70751,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 F150 Xlt 302ain Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -355,7 +406,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -371,7 +424,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer ",
@@ -387,7 +442,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -403,12 +460,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento LX, 2.5L, AWD, HEATED SEATS, APPLE CARPLAYin Kelowna near West Kelowna",
       "vin": "5XYRGDLCXNG083504",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/cee50562f051.html",
       "source_url": "https://www.kelownaford.com/used/2022-Kia-Sorento-id13989694.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Kia-Sorento-id13989694.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -418,8 +478,10 @@
       "odometer_km": 77168,
       "year": 2022,
       "make": "Kia",
-      "model": "Sorento LX, 2.5L, AWD, HEATED SEATS, APPLE CARPLAYin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -435,7 +497,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -451,12 +515,15 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Aviator RESERVE, AWD, PANORAMIC MOONROOF, HEATED/VENTILATED SEATS, ILLUMINATION PKG, ADAPTIVE CRUISEin Kelowna near West Kelowna",
       "vin": "5LM5J7XC1NGL07020",
       "stock": "NUMBER",
+      "trim": "RESERVE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/771c5d5979eb.html",
       "source_url": "https://www.kelownaford.com/used/2022-Lincoln-Aviator-id14235821.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Lincoln-Aviator-id14235821.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -466,8 +533,10 @@
       "odometer_km": 74380,
       "year": 2022,
       "make": "Lincoln",
-      "model": "Aviator RESERVE, AWD, PANORAMIC MOONROOF, HEATED/VENTILATED SEATS, ILLUMINATION PKG, ADAPTIVE CRUISEin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Aviator",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Aviator ",
@@ -483,12 +552,15 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Nautilus RESERVE, AWD, 2.0L, MONOCHROMATIC PACKAGE, LEATHER, MOONROOFin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "RESERVE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/5923d836d6c9.html",
       "source_url": "https://www.kelownaford.com/used/2022-Lincoln-Nautilus-id12832067.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Lincoln-Nautilus-id12832067.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -498,13 +570,16 @@
       "odometer_km": 89946,
       "year": 2022,
       "make": "Lincoln",
-      "model": "Nautilus RESERVE, AWD, 2.0L, MONOCHROMATIC PACKAGE, LEATHER, MOONROOFin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Nautilus",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Nautilus Reserve 201ain Kelowna near West Kelowna",
       "vin": "2LMPJ8K92NBL19573",
       "stock": "NUMBER",
+      "trim": "Reserve 201a",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/bc333fb2b69d.html",
       "source_url": "https://www.kelownaford.com/used/2022-Lincoln-Nautilus-id14436954.html",
       "dealer_url": "https://www.kelownaford.com/used/2022-Lincoln-Nautilus-id14436954.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -514,8 +589,10 @@
       "odometer_km": 38365,
       "year": 2022,
       "make": "Lincoln",
-      "model": "Nautilus Reserve 201ain Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Nautilus",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Nautilus ",
@@ -531,7 +608,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Aviator ",
@@ -547,7 +626,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Nautilus ",
@@ -563,13 +644,16 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet TrailBlazer RSin Kelowna near West Kelowna",
       "vin": "KL79MUSL0PB143357",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/c9f74a6f595d.html",
       "source_url": "https://www.kelownaford.com/used/2023-Chevrolet-TrailBlazer-id14425052.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Chevrolet-TrailBlazer-id14425052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -579,8 +663,10 @@
       "odometer_km": 62326,
       "year": 2023,
       "make": "Chevrolet",
-      "model": "TrailBlazer RSin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Trailblazer",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet TrailBlazer ",
@@ -594,7 +680,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet TrailBlazer ",
@@ -608,7 +696,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco ",
@@ -624,12 +714,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport BIG BEND, AWD, CONVIENENCE PKG, TOW PKG, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9B68PRD94801",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/ab8bb95742f3.html",
       "source_url": "https://www.kelownaford.com/used/2023-Ford-Bronco_Sport-id14226757.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Ford-Bronco_Sport-id14226757.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -639,8 +732,10 @@
       "odometer_km": 38208,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, CONVIENENCE PKG, TOW PKG, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -656,12 +751,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 STX, 2.7L, SHORT BOX, APPEARANCE PKG, REVERSE CAMERAin Kelowna near West Kelowna",
       "vin": "1FTEW1EP5PKE98050",
       "stock": "NUMBER",
+      "trim": "STX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/8ca177d02683.html",
       "source_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id13952051.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id13952051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -671,13 +769,16 @@
       "odometer_km": 45254,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 STX, 2.7L, SHORT BOX, APPEARANCE PKG, REVERSE CAMERAin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 XLT, 3.5L, SPORT PKG, KEYLESS ENTRY, TAILGATE STEP, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "1FTFW1E89PFA24253",
       "stock": "NUMBER",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/4d7430d1f27a.html",
       "source_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id14151732.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id14151732.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -687,13 +788,16 @@
       "odometer_km": 73153,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 XLT, 3.5L, SPORT PKG, KEYLESS ENTRY, TAILGATE STEP, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 XLT, 2.7L, SPORT PKG, TAILGATE STEP, 360 CAMERA, HEATED SEATS, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "1FTEW1EPXPFC60428",
       "stock": "NUMBER",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/6350b0b538ba.html",
       "source_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id14209490.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id14209490.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -703,13 +807,16 @@
       "odometer_km": 59930,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 XLT, 2.7L, SPORT PKG, TAILGATE STEP, 360 CAMERA, HEATED SEATS, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 XLT, 2.7L, TWIN PANEL MOONROOF, HEATED SEATS, 360 CAMERA, TAILGATE STEPin Kelowna near West Kelowna",
       "vin": "1FTEW1EP6PFC58899",
       "stock": "NUMBER",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/844ead47ca4b.html",
       "source_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id14291011.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Ford-F_150-id14291011.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -719,8 +826,10 @@
       "odometer_km": 54666,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 XLT, 2.7L, TWIN PANEL MOONROOF, HEATED SEATS, 360 CAMERA, TAILGATE STEPin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -736,7 +845,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-350 ",
@@ -752,7 +863,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco ",
@@ -768,7 +881,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -784,7 +899,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -800,7 +917,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-350 ",
@@ -816,12 +935,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-350",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage LX, AWD, HEATED SEATS, KEYLESS ENTRYin Kelowna near West Kelowna",
       "vin": "KNDPUCAFXP7135317",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/0e15cdfd5480.html",
       "source_url": "https://www.kelownaford.com/used/2023-Kia-Sportage-id14160167.html",
       "dealer_url": "https://www.kelownaford.com/used/2023-Kia-Sportage-id14160167.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -831,8 +953,10 @@
       "odometer_km": 41748,
       "year": 2023,
       "make": "Kia",
-      "model": "Sportage LX, AWD, HEATED SEATS, KEYLESS ENTRYin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -848,7 +972,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -864,7 +990,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Lincoln Aviator ",
@@ -880,7 +1008,9 @@
       "year": 2023,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Lincoln Aviator ",
@@ -896,12 +1026,15 @@
       "year": 2023,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco BLACK DIAMOND, 2.3L, SOFT TOP, HEATED SEATS, VINYL SEATSin Kelowna near West Kelowna",
       "vin": "1FMDE1BH4RLA76372",
       "stock": "NUMBER",
+      "trim": "BLACK DIAMOND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/ae90ddcd6c46.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id13542586.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id13542586.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -911,13 +1044,16 @@
       "odometer_km": 6678,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco BLACK DIAMOND, 2.3L, SOFT TOP, HEATED SEATS, VINYL SEATSin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco BIG BEND, 2.3L, HARD TOP, HEATED SEATSin Kelowna near West Kelowna",
       "vin": "1FMDE7BH0RLA57207",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/7577a10ba7eb.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id13989693.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id13989693.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -927,13 +1063,16 @@
       "odometer_km": 43001,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco BIG BEND, 2.3L, HARD TOP, HEATED SEATSin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco BIG BEND, HARD TOP, KEYLESS ENTRY, HEATED SEATSin Kelowna near West Kelowna",
       "vin": "1FMDE7BH2RLB34675",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/69c187f807e9.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14032833.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14032833.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -943,13 +1082,16 @@
       "odometer_km": 8835,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco BIG BEND, HARD TOP, KEYLESS ENTRY, HEATED SEATSin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco OUTERBANKS, HARDTOP, KEYLESS ENTRY, REMOTE START, APPLE CARPLAYin Kelowna near West Kelowna",
       "vin": "1FMDE8BH6RLA56214",
       "stock": "NUMBER",
+      "trim": "OUTERBANKS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/680c6730f6dc.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14160170.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14160170.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -959,13 +1101,16 @@
       "odometer_km": 25756,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco OUTERBANKS, HARDTOP, KEYLESS ENTRY, REMOTE START, APPLE CARPLAYin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco OUTERBANKS, 2.7L, HIGH/LUX PKG, HARDTOP, ADAPTIVE CRUISE CONTROL, 360 CAMERAin Kelowna near West Kelowna",
       "vin": "1FMEE8BP1RLA35122",
       "stock": "NUMBER",
+      "trim": "OUTERBANKS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/d8957b4e04b9.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14170456.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14170456.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -975,13 +1120,16 @@
       "odometer_km": 44379,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco OUTERBANKS, 2.7L, HIGH/LUX PKG, HARDTOP, ADAPTIVE CRUISE CONTROL, 360 CAMERAin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco BIG BEND, SOFT TOP, KEYLESS ENTRY, 8\" TOUCHSCREENin Kelowna near West Kelowna",
       "vin": "1FMDE7BHXRLA84933",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/ad078a6a761d.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14241766.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14241766.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -991,14 +1139,17 @@
       "odometer_km": 38930,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco BIG BEND, SOFT TOP, KEYLESS ENTRY, 8\" TOUCHSCREENin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco OUTERBANKS, 2.7L, HARDTOP, KEYLESS ENTRY, REVERSE CAMERAin Kelowna near West Kelowna",
       "vin": "1FMEE8BP6RLA32510",
       "stock": "NUMBER",
       "color": "Light gray",
+      "trim": "OUTERBANKS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/cc8acd1abfcf.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14271545.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco-id14271545.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1008,8 +1159,10 @@
       "odometer_km": 50845,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco OUTERBANKS, 2.7L, HARDTOP, KEYLESS ENTRY, REVERSE CAMERAin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1025,12 +1178,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport BIG BEND, AWD, HEATED SEATS, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9B66RRE87092",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/7821e8d2f228.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Bronco_Sport-id13628072.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Bronco_Sport-id13628072.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1040,8 +1196,10 @@
       "odometer_km": 49440,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, HEATED SEATS, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1057,12 +1215,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ACTIVE, 1.5L, CARPLAY, KEYLESS ENTRYin Kelowna near West Kelowna",
       "vin": "1FMCU0GN0RUB32471",
       "stock": "NUMBER",
+      "trim": "ACTIVE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/71aa69b63ad6.html",
       "source_url": "https://www.kelownaford.com/used/2024-Ford-Escape-id13729849.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Ford-Escape-id13729849.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1072,8 +1233,10 @@
       "odometer_km": 24005,
       "year": 2024,
       "make": "Ford",
-      "model": "Escape ACTIVE, 1.5L, CARPLAY, KEYLESS ENTRYin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -1089,7 +1252,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1105,7 +1270,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-350 ",
@@ -1121,7 +1288,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1137,7 +1306,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1153,7 +1324,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -1169,7 +1342,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1185,7 +1360,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-350 ",
@@ -1201,12 +1378,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-350",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V LX, AWD, HEATED SEATS, ADAPTIVE CRUISE CONTROL, REVERSE CAMERAin Kelowna near West Kelowna",
       "vin": "2HKRS4H21RH104804",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/dd7a94027cff.html",
       "source_url": "https://www.kelownaford.com/used/2024-Honda-CR_V-id14369557.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Honda-CR_V-id14369557.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1216,8 +1396,10 @@
       "odometer_km": 59724,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V LX, AWD, HEATED SEATS, ADAPTIVE CRUISE CONTROL, REVERSE CAMERAin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V ",
@@ -1233,7 +1415,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V ",
@@ -1249,7 +1433,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Lincoln Aviator ",
@@ -1265,7 +1451,9 @@
       "year": 2024,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Lincoln Nautilus ",
@@ -1281,7 +1469,9 @@
       "year": 2024,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Lincoln Aviator ",
@@ -1297,7 +1487,9 @@
       "year": 2024,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Lincoln Nautilus ",
@@ -1313,12 +1505,15 @@
       "year": 2024,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks SR, HEATED SEATS, HEATED STEERING WHEEL, APPLE CARPLAY, REVERSE CAMERAin Kelowna near West Kelowna",
       "vin": "3N1CP5DV0RL514817",
       "stock": "NUMBER",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/c0130c1c1248.html",
       "source_url": "https://www.kelownaford.com/used/2024-Nissan-Kicks-id14358095.html",
       "dealer_url": "https://www.kelownaford.com/used/2024-Nissan-Kicks-id14358095.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,8 +1523,10 @@
       "odometer_km": 19901,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks SR, HEATED SEATS, HEATED STEERING WHEEL, APPLE CARPLAY, REVERSE CAMERAin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1345,7 +1542,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1361,7 +1560,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco ",
@@ -1377,12 +1578,15 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9BN0SRE32909",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/539c836b17e6.html",
       "source_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id13437986.html",
       "dealer_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id13437986.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1392,13 +1596,16 @@
       "odometer_km": 31150,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9BN0SRE32764",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/43bd88cea455.html",
       "source_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id13849420.html",
       "dealer_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id13849420.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1408,13 +1615,16 @@
       "odometer_km": 32184,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9BNXSRE32903",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/e45e7a4038cc.html",
       "source_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id13952052.html",
       "dealer_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id13952052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1424,14 +1634,17 @@
       "odometer_km": 35907,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, HEATED SEATS, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport BIG BEND, AWD, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9BN7SRE16299",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/36268d0b2afa.html",
       "source_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id14039327.html",
       "dealer_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id14039327.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1441,13 +1654,16 @@
       "odometer_km": 28176,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport BIG BEND, AWD, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
       "vin": "3FMCR9BN7SRE33037",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/acfac8166310.html",
       "source_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id14058114.html",
       "dealer_url": "https://www.kelownaford.com/used/2025-Ford-Bronco_Sport-id14058114.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1457,8 +1673,10 @@
       "odometer_km": 32337,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND, AWD, 13.2\" TOUCHSCREEN, REMOTE STARTin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -1474,7 +1692,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1490,7 +1710,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco ",
@@ -1506,7 +1728,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -1522,7 +1746,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1538,7 +1764,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Lincoln Aviator ",
@@ -1554,7 +1782,9 @@
       "year": 2025,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Lincoln Aviator ",
@@ -1570,7 +1800,9 @@
       "year": 2025,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -1586,7 +1818,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1602,7 +1836,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Kelowna near West Kelowna",
@@ -1617,12 +1853,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Kelowna near West Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/3de426e54a7d.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1631,13 +1870,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/64bf1f13269d.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1646,8 +1888,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Kelowna near West Kelowna",
@@ -1662,7 +1906,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Kelowna near West Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -1678,7 +1924,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -1694,12 +1942,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Lightningin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lightning",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/f5db01b43847.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-F_150_Lightning.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-F_150_Lightning.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1708,8 +1959,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Lightningin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1725,7 +1978,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1741,7 +1996,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustangin Kelowna near West Kelowna",
@@ -1756,12 +2013,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Kelowna near West Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/be9607b81356.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1770,8 +2030,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Mustang",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -1787,7 +2049,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -1803,13 +2067,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-250 SRW ",
       "vin": "1FT8W2BN5VEC42668",
       "stock": 14363922,
       "color": "{$COLOREX}",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/6d7f7f1acd42.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1818,13 +2085,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 DRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/6775be38774e.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1833,14 +2103,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BM5TED12471",
       "stock": 14309462,
       "color": "{$COLOREX}",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/bcdfa4436042.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1849,14 +2122,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-450 DRW ",
       "vin": "1FT8W4DMXTEF32210",
       "stock": 14151718,
       "color": "{$COLOREX}",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/608c2b9ad57e.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1865,8 +2141,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-450 DRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -1882,7 +2160,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1898,7 +2178,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Kelowna near West Kelowna",
@@ -1913,12 +2195,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/3de426e54a7d.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1927,13 +2212,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/64bf1f13269d.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1942,8 +2230,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Kelowna near West Kelowna",
@@ -1958,7 +2248,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -1974,7 +2266,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -1990,12 +2284,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Lightningin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lightning",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/f5db01b43847.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-F_150_Lightning.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-F_150_Lightning.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2004,8 +2301,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Lightningin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -2021,7 +2320,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -2037,7 +2338,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustangin Kelowna near West Kelowna",
@@ -2052,12 +2355,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/be9607b81356.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2066,8 +2372,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -2083,7 +2391,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -2099,13 +2409,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-250 SRW ",
       "vin": "1FT8W2BN5VEC42668",
       "stock": 14363922,
       "color": "{$COLOREX}",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6d7f7f1acd42.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2114,13 +2427,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 DRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6775be38774e.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2129,14 +2445,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BM5TED12471",
       "stock": 14309462,
       "color": "{$COLOREX}",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/bcdfa4436042.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2145,14 +2464,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-450 DRW ",
       "vin": "1FT8W4DMXTEF32210",
       "stock": 14151718,
       "color": "{$COLOREX}",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/608c2b9ad57e.html",
       "source_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2026-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2161,13 +2483,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-450 DRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bendin Kelowna near West Kelowna",
       "vin": "1FMDE7BH2TLA51707",
       "stock": "NUMBER",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/433bfce13499.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco-id14425051.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco-id14425051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2176,13 +2501,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bendin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
       "vin": "3FMCR9BN1TRF35788",
       "stock": "NUMBER",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/9afae2197d76.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14363921.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14363921.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2191,13 +2519,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bendin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
       "vin": "3FMCR9BN3TRF29829",
       "stock": "NUMBER",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0ab063cc2827.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14431057.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14431057.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2206,13 +2537,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bendin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
       "vin": "3FMCR9BN1TRF37203",
       "stock": "NUMBER",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/462d342ba46d.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14431058.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14431058.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2221,13 +2555,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bendin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlandsin Kelowna near West Kelowna",
       "vin": "3FMCR9DA6TRE08982",
       "stock": "NUMBER",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/228982998a5e.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14431061.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Bronco_Sport-id14431061.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2236,14 +2573,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Badlandsin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Lariatin Kelowna near West Kelowna",
       "vin": "1FTFW5L83TFC28745",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7ba6f6f164b3.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14363918.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14363918.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2252,14 +2592,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Lariatin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Raptorin Kelowna near West Kelowna",
       "vin": "1FTFW1RGXTFB89756",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Raptor",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/619722112f58.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14378106.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14378106.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2268,14 +2611,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Raptorin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Kelowna near West Kelowna",
       "vin": "1FTEW3LP1TKE54376",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/5a48caf8f3de.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14397212.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14397212.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2284,13 +2630,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L89TFC28467",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0074b30bdc77.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431043.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431043.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2299,13 +2648,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L80TFC27319",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/e4d1c3182a0a.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431044.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431044.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,13 +2666,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L88TFC29061",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7d33e2d03110.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431045.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431045.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2329,13 +2684,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L84TFC26254",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/13cc96186321.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431046.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431046.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2344,13 +2702,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L88TFC27326",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6f5407f9bac9.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431047.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431047.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2359,13 +2720,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L82TFC26723",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c8553221c802.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431048.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431048.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2374,13 +2738,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L81TFC25627",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/3df304133c82.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431049.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2389,13 +2756,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L84TFC28702",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7495dbdc836c.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431050.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431050.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2404,13 +2774,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTEW3LP5TFC29113",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/2ab2d12b0806.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431051.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2419,13 +2792,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTEW3LP0TFC28595",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/872d0e2d10e7.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431052.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2434,13 +2810,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTEW3LPXTFC29351",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/27ef6df84b3e.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431053.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431053.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2449,13 +2828,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 F150in Kelowna near West Kelowna",
       "vin": "1FTFW4L80TFC26381",
       "stock": "NUMBER",
+      "trim": "F150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/241b64397f4d.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431054.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14431054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2464,14 +2846,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 F150in Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Raptorin Kelowna near West Kelowna",
       "vin": "1FTFW1RJXTFB77716",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Raptor",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/553d7e26b7f2.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14436953.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-F_150-id14436953.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2480,14 +2865,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Raptorin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick XLTin Kelowna near West Kelowna",
       "vin": "3FTTW8J38TRB21463",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/90fe895400bd.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Maverick-id14406841.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Maverick-id14406841.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2496,14 +2884,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick XLTin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick XLTin Kelowna near West Kelowna",
       "vin": "3FTTW8J32TRB26836",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/bab57f789639.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Maverick-id14406842.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Maverick-id14406842.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2512,13 +2903,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick XLTin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E Selectin Kelowna near West Kelowna",
       "vin": "3FMTK1SU0TMA27323",
       "stock": "NUMBER",
+      "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/21a3b27d4344.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Mustang_Mach_E-id14397217.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Mustang_Mach_E-id14397217.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2527,14 +2921,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Mach-E Selectin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Lariatin Kelowna near West Kelowna",
       "vin": "1FTER4KH9TLE54238",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/a3e6cbee459b.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Ranger-id14363919.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Ranger-id14363919.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2543,13 +2940,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Lariatin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Lariatin Kelowna near West Kelowna",
       "vin": "1FTER4KH1TLE54962",
       "stock": "NUMBER",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0f3581323a54.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Ranger-id14363920.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Ranger-id14363920.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2558,14 +2958,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Lariatin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLin Kelowna near West Kelowna",
       "vin": "1FTER4PH2TLE29514",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/754129a2cd43.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Ranger-id14425054.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Ranger-id14425054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2574,8 +2977,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Rangerin Kelowna near West Kelowna",
@@ -2590,7 +2995,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Rangerin Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Rangerin Kelowna near West Kelowna",
@@ -2605,12 +3012,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Rangerin Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-250 SRW Lariatin Kelowna near West Kelowna",
       "vin": "1FT8W2BN5VEC42668",
       "stock": "NUMBER",
+      "trim": "F-250 SRW Lariat",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/f4952b22b8b2.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Super_Duty_F_250_SRW-id14363922.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2026-Ford-Super_Duty_F_250_SRW-id14363922.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2619,13 +3029,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW Lariatin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Bronco Sportin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/6a0a103b3fc9.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Bronco_Sport.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Bronco_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2634,8 +3047,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Bronco Sportin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expeditionin Kelowna near West Kelowna",
@@ -2650,7 +3065,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expeditionin Kelowna near West Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2666,7 +3083,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford F-150in Kelowna near West Kelowna",
@@ -2681,7 +3100,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-150in Kelowna near West Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverickin Kelowna near West Kelowna",
@@ -2696,12 +3117,15 @@
       "year": 2027,
       "make": "Ford",
       "model": "Maverickin Kelowna near West Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverick Hybridin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/ee74f08b8bd6.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Maverick_Hybrid.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Maverick_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2710,13 +3134,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Maverick Hybridin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-250 SRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/a0ac83e4ff52.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2725,13 +3152,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-250 SRWin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 DRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/4a18e05bd919.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2740,14 +3170,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW ",
       "vin": "2FT8W3BM2VBA03300",
       "stock": 14397210,
       "color": "{$COLOREX}",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/8d252d260534.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2756,13 +3189,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/5d5fdc0fefb0.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2771,13 +3207,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Kelowna near West Kelowna",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Bronco Sportin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6a0a103b3fc9.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Bronco_Sport.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Bronco_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2786,8 +3225,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Bronco Sportin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expeditionin Kelowna near West Kelowna",
@@ -2802,7 +3243,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expeditionin Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2818,7 +3261,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford F-150in Kelowna near West Kelowna",
@@ -2833,7 +3278,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-150in Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverickin Kelowna near West Kelowna",
@@ -2848,12 +3295,15 @@
       "year": 2027,
       "make": "Ford",
       "model": "Maverickin Kelowna near West Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Maverick Hybridin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/ee74f08b8bd6.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Maverick_Hybrid.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Maverick_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2862,13 +3312,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Maverick Hybridin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-250 SRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/a0ac83e4ff52.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2877,13 +3330,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-250 SRWin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 DRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/4a18e05bd919.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2892,14 +3348,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW ",
       "vin": "2FT8W3BM2VBA03300",
       "stock": 14397210,
       "color": "{$COLOREX}",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/8d252d260534.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2908,13 +3367,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Kelowna near West Kelowna",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/5d5fdc0fefb0.html",
       "source_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.kelownaford.com/new/2027-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2923,14 +3385,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Tremorin Kelowna near West Kelowna",
       "vin": "1FMUK8JH3VGA07548",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Tremor",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/f624c9501c82.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Explorer-id14397214.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Explorer-id14397214.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2939,14 +3404,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Tremorin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Tremorin Kelowna near West Kelowna",
       "vin": "1FMUK8JHXVGA28042",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Tremor",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/4922506f9765.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Explorer-id14397218.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Explorer-id14397218.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2955,14 +3423,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Tremorin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Tremorin Kelowna near West Kelowna",
       "vin": "1FMWK8JC3VGA39087",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Tremor",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/72c72d654601.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Explorer-id14397219.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Explorer-id14397219.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2971,14 +3442,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Tremorin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
       "vin": "2FT8W3BM9VBA01978",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "F-350 SRW Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/bf7fe19f01eb.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14363917.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14363917.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2987,14 +3461,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
       "vin": "2FT8W3BMXVBA03450",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "F-350 SRW Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6d2dccd753aa.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14397209.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14397209.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3003,14 +3480,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW XLTin Kelowna near West Kelowna",
       "vin": "2FT8W3BM2VBA03300",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "F-350 SRW XLT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/84d83e2b5c39.html",
       "source_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14397210.html",
       "dealer_url": "https://www.kelownaford.com/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14397210.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3019,8 +3499,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW XLTin Kelowna near West Kelowna",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     }
   ]
 }
