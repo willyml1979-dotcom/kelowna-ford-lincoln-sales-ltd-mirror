@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Ford Lincoln Sales Ltd",
-  "generated_at": "2026-10-26T04:39:05",
+  "generated_at": "2026-10-26T04:42:09",
   "vehicle_count": 198,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -91,6 +91,94 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/5a48caf8f3de.html",
       "condition": "new",
       "price": 70810.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L89TFC28467",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0074b30bdc77.html",
+      "condition": "new",
+      "price": 90390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L80TFC27319",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/e4d1c3182a0a.html",
+      "condition": "new",
+      "price": 88225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L88TFC29061",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7d33e2d03110.html",
+      "condition": "new",
+      "price": 86175.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L84TFC26254",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/13cc96186321.html",
+      "condition": "new",
+      "price": 89800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L88TFC27326",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6f5407f9bac9.html",
+      "condition": "new",
+      "price": 100720.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L82TFC26723",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c8553221c802.html",
+      "condition": "new",
+      "price": 88825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L81TFC25627",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/3df304133c82.html",
+      "condition": "new",
+      "price": 101310.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Kelowna near West Kelowna",
+      "vin": "1FTFW4L84TFC28702",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7495dbdc836c.html",
+      "condition": "new",
+      "price": 100685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Kelowna near West Kelowna",
+      "vin": "1FTEW3LP5TFC29113",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/2ab2d12b0806.html",
+      "condition": "new",
+      "price": 83080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Kelowna near West Kelowna",
+      "vin": "1FTEW3LP0TFC28595",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/872d0e2d10e7.html",
+      "condition": "new",
+      "price": 79885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Kelowna near West Kelowna",
+      "vin": "1FTEW3LPXTFC29351",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/27ef6df84b3e.html",
+      "condition": "new",
+      "price": 79885.0,
       "price_currency": "CAD"
     },
     {
@@ -430,6 +518,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
+      "vin": "2FT8W3BMXVBA04016",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/1ad45079bb6e.html",
+      "condition": "new",
+      "price": 131274.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350 SRW XLin Kelowna near West Kelowna",
+      "vin": "2FT8W3BN3VBA06912",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/457e799fa4ea.html",
+      "condition": "new",
+      "price": 81679.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Mitsubishi Eclipse Cross Le/spin Kelowna near West Kelowna",
       "vin": "JA4AT4AA2KZ602398",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/88b59013273e.html",
@@ -448,6 +552,17 @@
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "used",
+      "price": 21998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Mitsubishi Eclipse Cross ",
+      "vin": "JA4AT4AA2KZ602398",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c6545400e13d.html",
+      "year": 2019,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "condition": "new",
       "price": 21998.0,
       "price_currency": "CAD"
     },
@@ -749,17 +864,6 @@
       "name": "2022 Kia Sorento ",
       "vin": "5XYRGDLCXNG083504",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6ed1264976f5.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "new",
-      "price": 23599.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Sorento ",
-      "vin": "5XYRGDLCXNG083504",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c6545400e13d.html",
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
@@ -1694,127 +1798,6 @@
     },
     {
       "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L89TFC28467",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0074b30bdc77.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 82390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L80TFC27319",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/e4d1c3182a0a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 80225.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L88TFC29061",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7d33e2d03110.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 78175.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L84TFC26254",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/13cc96186321.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 81800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L88TFC27326",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/6f5407f9bac9.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 92720.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L82TFC26723",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c8553221c802.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 80825.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L81TFC25627",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/3df304133c82.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 93310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L84TFC28702",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/7495dbdc836c.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 92685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLTin Kelowna near West Kelowna",
-      "vin": "1FTEW3LP5TFC29113",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/2ab2d12b0806.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 75080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLTin Kelowna near West Kelowna",
-      "vin": "1FTEW3LP0TFC28595",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/872d0e2d10e7.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 71885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLTin Kelowna near West Kelowna",
-      "vin": "1FTEW3LPXTFC29351",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/27ef6df84b3e.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 71885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
       "vin": "1FTFW4L80TFC26381",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/241b64397f4d.html",
       "year": 2026,
@@ -1979,28 +1962,6 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 71710.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
-      "vin": "2FT8W3BMXVBA04016",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/1ad45079bb6e.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 128774.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Super Duty F-350 SRW XLin Kelowna near West Kelowna",
-      "vin": "2FT8W3BN3VBA06912",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/457e799fa4ea.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "new",
-      "price": 79179.0,
       "price_currency": "CAD"
     }
   ]
