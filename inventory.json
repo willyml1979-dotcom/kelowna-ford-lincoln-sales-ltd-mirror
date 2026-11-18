@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Ford Lincoln Sales Ltd",
-  "generated_at": "2026-11-16T23:24:18",
-  "vehicle_count": 239,
+  "generated_at": "2026-11-17T20:37:14",
+  "vehicle_count": 238,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -45,6 +45,13 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/b0cc1086fa0a.html",
       "condition": "used",
       "price": 28998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2021 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/62df349e9531.html",
+      "condition": "used",
+      "price": 36998.0,
       "price_currency": "CAD"
     },
     {
@@ -132,10 +139,52 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Bronco 2024 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/935d3811a189.html",
+      "condition": "used",
+      "price": 45998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2024 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/073230a56dcd.html",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2024 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/7114e0e6d450.html",
+      "condition": "used",
+      "price": 27998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-350 2024 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/0e3993959f2c.html",
+      "condition": "used",
+      "price": 89995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lincoln Nautilus 2024 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/fd53eb51df27.html",
+      "condition": "used",
+      "price": 52998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 3500 2024 for salein Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/8b82bf1df5f6.html",
       "condition": "used",
       "price": 60995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 2025 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/2421be428403.html",
+      "condition": "used",
+      "price": 59995.0,
       "price_currency": "CAD"
     },
     {
@@ -293,15 +342,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Explorer ",
-      "vin": "1FMSK8FHXMGA97618",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/62df349e9531.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used"
-    },
-    {
       "name": "2022 Chevrolet Silverado 1500 WORKTRUCK, 2.7L, 4WD, TOW MODE, REVERSE CAMERA, KEYLESS ENTRYin Kelowna near West Kelowna",
       "vin": "3GCPDAEK3NG649507",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/2c15c090b7d3.html",
@@ -363,7 +403,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 51995.0,
+      "price": 50895.0,
       "price_currency": "CAD"
     },
     {
@@ -681,24 +721,13 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 53595.0,
+      "price": 52998.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 Ford Bronco BIG BEND, SOFT TOP, KEYLESS ENTRY, 8\" TOUCHSCREENin Kelowna near West Kelowna",
       "vin": "1FMDE7BHXRLA84933",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/ad078a6a761d.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 45998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMDE7BHXRLA84933",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/935d3811a189.html",
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
@@ -740,17 +769,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Bronco Sport ",
-      "vin": "3FMCR9B66RRE87092",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/073230a56dcd.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Escape ACTIVE, 1.5L, CARPLAY, KEYLESS ENTRYin Kelowna near West Kelowna",
       "vin": "1FMCU0GN0RUB32471",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/71aa69b63ad6.html",
@@ -759,28 +777,6 @@
       "model": "Escape",
       "condition": "used",
       "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Escape ",
-      "vin": "1FMCU0GN0RUB32471",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/7114e0e6d450.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-350 ",
-      "vin": "1FT8W3BM0REE27438",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/0e3993959f2c.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "used",
-      "price": 89995.0,
       "price_currency": "CAD"
     },
     {
@@ -852,45 +848,12 @@
     {
       "name": "2024 Lincoln Nautilus ",
       "vin": "5LMPJ8KA8RJ825929",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/fd53eb51df27.html",
-      "year": 2024,
-      "make": "Lincoln",
-      "model": "Nautilus",
-      "condition": "used",
-      "price": 59998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Lincoln Nautilus ",
-      "vin": "5LMPJ8KA8RJ825929",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/fd53eb51df27.html",
       "year": 2024,
       "make": "Lincoln",
       "model": "Nautilus",
       "condition": "new",
       "price": 59998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Silverado ",
-      "vin": "3GCUKFE87SG232106",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/2421be428403.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Silverado",
-      "condition": "used",
-      "price": 62995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco ",
-      "vin": "1FMEE9BP3SLA43279",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/5c97d19e7c15.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 68998.0,
       "price_currency": "CAD"
     },
     {
