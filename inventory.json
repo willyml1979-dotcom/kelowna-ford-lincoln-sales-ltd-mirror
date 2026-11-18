@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Ford Lincoln Sales Ltd",
-  "generated_at": "2026-11-18T14:23:33",
+  "generated_at": "2026-11-18T14:44:50",
   "vehicle_count": 243,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1136,25 +1136,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banksin Kelowna near West Kelowna",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Kelowna near West Kelowna",
       "vin": "3FMCR9CN5TRF41950",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/cb78ee5a86ba.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 42040.0,
+      "price": 46040.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banksin Kelowna near West Kelowna",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Kelowna near West Kelowna",
       "vin": "3FMCR9CN9TRF41949",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/adf8e6d5a4f8.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 50425.0,
+      "price": 54425.0,
       "price_currency": "CAD"
     },
     {
@@ -1231,7 +1231,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 91770.0,
+      "price": 99020.0,
       "price_currency": "CAD"
     },
     {
@@ -1253,7 +1253,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 70810.0,
+      "price": 78060.0,
       "price_currency": "CAD"
     },
     {
@@ -2376,7 +2376,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 129074.0,
+      "price": 131574.0,
       "price_currency": "CAD"
     },
     {
