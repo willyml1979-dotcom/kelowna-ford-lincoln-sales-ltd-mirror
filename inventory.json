@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Ford Lincoln Sales Ltd",
-  "generated_at": "2026-11-17T20:37:14",
-  "vehicle_count": 238,
+  "generated_at": "2026-11-17T20:43:41",
+  "vehicle_count": 246,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -188,6 +188,13 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 2020 for salein Kelowna near West Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/725d307561b0.html",
+      "condition": "new",
+      "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015 Chevrolet Trax LTZin Kelowna near West Kelowna",
       "vin": "3GNCJTSB0FL255292",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/7a7a1a75f1a5.html",
@@ -317,17 +324,6 @@
       "model": "Explorer",
       "condition": "new",
       "price": 37378.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford F-150 ",
-      "vin": "1FTFW1E10LFC74767",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/725d307561b0.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -1056,14 +1052,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick ",
-      "vin": "3FTTW8J32TRB26836",
+      "name": "2026 Ford Maverick Hybridin Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/d62c97b62667.html",
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
       "condition": "new",
-      "price": 45945.0,
+      "price": 38195.0,
       "price_currency": "CAD"
     },
     {
@@ -1087,25 +1082,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E ",
-      "vin": "3FMTK1SU9TMA23156",
+      "name": "2026 Ford Mustang Mach-Ein Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0e4d533557cb.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Mach-E",
+      "model": "Mustang",
       "condition": "new",
-      "price": 52215.0,
+      "price": 46590.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger ",
-      "vin": "1FTER4PH2TLE29514",
+      "name": "2026 Ford Rangerin Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/edf182daf015.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger",
+      "model": "Rangerin Kelowna near West Kelowna",
       "condition": "new",
-      "price": 47260.0,
+      "price": 45065.0,
       "price_currency": "CAD"
     },
     {
@@ -1115,7 +1108,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 60034.0,
+      "price": 64034.0,
       "price_currency": "CAD"
     },
     {
@@ -1173,14 +1166,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
+      "name": "New 2026 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
       "vin": "3FMCR9BN3TRF29829",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0ab063cc2827.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 42530.0,
+      "price": 45530.0,
       "price_currency": "CAD"
     },
     {
@@ -1448,18 +1441,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Tremorin Kelowna near West Kelowna",
-      "vin": "1FTFW4L80TFC26381",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/241b64397f4d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 80225.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Raptor Rin Kelowna near West Kelowna",
+      "name": "New 2026 Ford F-150 Raptor Rin Kelowna near West Kelowna",
       "vin": "1FTFW1RJXTFB77716",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/553d7e26b7f2.html",
       "year": 2026,
@@ -1588,28 +1570,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 100395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 STXin Kelowna near West Kelowna",
-      "vin": "1FTEW2LP4TKE18952",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c12635cb65e5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 62710.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 STXin Kelowna near West Kelowna",
-      "vin": "1FTEW2LP9TKF07206",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/9a23db897d60.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 63255.0,
       "price_currency": "CAD"
     },
     {
@@ -2188,6 +2148,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
+      "vin": "3FMCR9BN8VRE04019",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c7c5ba4227a1.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 42480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
+      "vin": "3FMCR9BN5VRE05192",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/790ff21fff6a.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 44020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
+      "vin": "3FMCR9BNXVRE04300",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/f82a9ba0dab6.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 47020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
+      "vin": "3FMCR9BN5VRE04446",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/816fd230ee11.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 47525.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Bronco Sport Badlandsin Kelowna near West Kelowna",
+      "vin": "3FMCR9DA4VRE04979",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/f40cd2834674.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 55975.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Ford Explorer Tremorin Kelowna near West Kelowna",
       "vin": "1FMUK8JH3VGA07548",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/f624c9501c82.html",
@@ -2375,6 +2390,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Maverick XLTin Kelowna near West Kelowna",
+      "vin": "3FTTW8J38VRA03643",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/3024e71be8b3.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 47090.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Ford Super Duty F-350 SRW Platinumin Kelowna near West Kelowna",
       "vin": "2FT8W3BM9VBA01978",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/bf7fe19f01eb.html",
@@ -2485,6 +2511,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Super Duty F-350 SRW Lariatin Kelowna near West Kelowna",
+      "vin": "2FT8W3BM2VBA07251",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/80d7f943697e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 127374.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350 SRW Lariatin Kelowna near West Kelowna",
+      "vin": "2FT8W3BM1VBA07161",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/c7d538f4c995.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 130138.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350 SRW Lariatin Kelowna near West Kelowna",
+      "vin": "2FT8W3BMXVBA07045",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/99c5ab42cd8e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 118033.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350 SRW Lariatin Kelowna near West Kelowna",
+      "vin": "2FT8W3BM1VBA07001",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/38e6a24e4827.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 113518.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Ford Transit R2c0 T250in Kelowna near West Kelowna",
       "vin": "1FTBR2CG7VKA58881",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/df811d8c720c.html",
@@ -2493,6 +2563,17 @@
       "model": "Transit",
       "condition": "new",
       "price": 75130.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Transit Cargo Vanin Kelowna near West Kelowna",
+      "vin": "1FTBR2CG7VKA58881",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/92f9a86fec75.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "condition": "new",
+      "price": 75135.0,
       "price_currency": "CAD"
     }
   ]

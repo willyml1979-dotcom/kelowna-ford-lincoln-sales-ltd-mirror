@@ -1,6 +1,6 @@
 # Kelowna Ford Lincoln Sales Ltd.
 
- dealership in Kelowna. AI-readable inventory mirror, about 238 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 246 vehicles.
 
 - Official website: https://www.kelownaford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/used/
