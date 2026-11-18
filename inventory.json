@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Ford Lincoln Sales Ltd",
-  "generated_at": "2026-11-18T06:02:40",
-  "vehicle_count": 245,
+  "generated_at": "2026-11-18T06:17:24",
+  "vehicle_count": 244,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1083,29 +1083,27 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 63280.0,
+      "price": 67280.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BM5TED12471",
+      "name": "2026 Ford Super Duty F-350 SRWin Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/bcdfa4436042.html",
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 99294.0,
+      "price": 66534.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-450 DRW ",
-      "vin": "1FT8W4DMXTEF32210",
+      "name": "2026 Ford Super Duty F-450 DRWin Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/608c2b9ad57e.html",
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 133613.0,
+      "price": 71210.0,
       "price_currency": "CAD"
     },
     {
@@ -1142,25 +1140,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Kelowna near West Kelowna",
-      "vin": "3FMCR9BN1TRF37203",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/462d342ba46d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 42530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banksin Kelowna near West Kelowna",
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Kelowna near West Kelowna",
       "vin": "3FMCR9CN1TRF42223",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/0a38f235d0bb.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 45930.0,
+      "price": 49930.0,
       "price_currency": "CAD"
     },
     {
@@ -1954,14 +1941,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Explorer ",
-      "vin": "1FMUK8KH5VGA59889",
+      "name": "2027 Ford Explorerin Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/84aac14e8e85.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "Explorerin Kelowna near West Kelowna",
       "condition": "new",
-      "price": 61695.0,
+      "price": 55195.0,
       "price_currency": "CAD"
     },
     {
@@ -2015,14 +2001,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Super Duty F-350 SRW ",
-      "vin": "2FT8W3BN3VBA06912",
+      "name": "2027 Ford Super Duty F-350 SRWin Kelowna near West Kelowna",
       "url": "https://willyml1979-dotcom.github.io/kelowna-ford-lincoln-sales-ltd-mirror/new/8d252d260534.html",
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 79179.0,
+      "price": 67534.0,
       "price_currency": "CAD"
     },
     {
